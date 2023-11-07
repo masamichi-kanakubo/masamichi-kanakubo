@@ -4,4 +4,4 @@
 
 ### github for plaid inc account. 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,kubernetes,gcp,redis,mongodb)](https://skillicons.dev)
