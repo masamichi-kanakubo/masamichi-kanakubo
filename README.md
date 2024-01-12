@@ -8,4 +8,4 @@
 - academic background: Ritumeikan Univ(Computer Science)
 - position: General Customer Engineer
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,nodejs,astro,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vue,astro,kubernetes)](https://skillicons.dev)
